@@ -1,7 +1,7 @@
 # spam-classifier
 Machine learning model that classifies SMS messages as spam or not spam using Python, TF-IDF and Naive Bayes.
 
-#Spam Message Classifier
+# Spam Message Classifier
 
 A machine learning project that detects whether an SMS message is spam or not spam.
 
